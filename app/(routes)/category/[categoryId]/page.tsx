@@ -1,6 +1,6 @@
 
 import Container from '@/components/ui/container';
-import Billboard from '@/components/billboard';
+import Billboard from '@/components/ui/billboard';
 import ProductCard from '@/components/ui/product-card';
 import NoResults from '@/components/ui/no-results';
 
